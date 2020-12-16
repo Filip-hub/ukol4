@@ -1,0 +1,12 @@
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.exe
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.deps.json
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.runtimeconfig.json
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.runtimeconfig.dev.json
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.dll
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\bin\Debug\netcoreapp3.1\ukol 4.pdb
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.AssemblyInfoInputs.cache
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.AssemblyInfo.cs
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.csproj.CoreCompileInputs.cache
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.dll
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.pdb
+C:\Users\Filip Votek\Git.com\ukol3\ukol 4\ukol 4\obj\Debug\netcoreapp3.1\ukol 4.genruntimeconfig.cache
